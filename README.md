@@ -1,69 +1,86 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=Hi%20There!&fontSize=40&animation=fadeIn" />
+</h1>
 
-👋 Hi there,
-
-### CSE Student | Machine Learning Enthusiast | Always Exploring
-
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CSE+Student;Machine+Learning+Enthusiast;Always+Exploring" />
+</h2>
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Currently pursuing **B.Sc. in Computer Science and Engineering** at **BRAC University**
+- 🎓 Currently pursuing **B.Sc. in Computer Science & Engineering** at **BRAC University**
 - 🤖 Focused on **Machine Learning & Data-Driven Systems**
-- ⚙️ Interested in building **scalable, intelligent, and efficient applications**
-- 📚 Lifelong learner who strongly believes in *learning by doing*
+- 🛠 Interested in building **scalable, intelligent, and efficient applications**
+- 📚 Lifelong learner who strongly believes in **learning by doing**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" />
 
 ## 🎓 Education
 
 | Institution | Degree | Year | GPA |
-|------------|--------|------|-----|
-| BRAC University | B.Sc in CSE | 2023 – Present | 3.xx |
-| Birsreshtha Noor Mohammad Public College | HSC | 2020 – 2022 | 5.00 |
+|------------|-------|------|-----|
+| **BRAC University** | B.Sc in CSE | 2023 – Present | 3.xx |
+| Birshreshtha Noor Mohammad Public College | HSC | 2020 – 2022 | 5.00 |
 | Ideal School and College | SSC | 2010 – 2020 | 5.00 |
 
 ---
 
-## 🧠 Tech Stack & Tools
+## ⚙️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-blue)
-![NumPy](https://img.shields.io/badge/NumPy-013243)
-![Pandas](https://img.shields.io/badge/Pandas-150458)
-![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Flask](https://img.shields.io/badge/Flask-black)
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,js,nodejs,flask,mysql&theme=dark" />
+</p>
 
 ---
 
 ## 🔍 Current Focus
 
-### 🎯 Machine Learning & Research
-- Supervised and unsupervised learning techniques  
-- Model evaluation, optimization, and data preprocessing  
-- Applying ML to real-world problems through projects and research  
+<details>
+<summary>🚀 <b>Machine Learning & Research</b></summary>
+
+- Supervised & Unsupervised Learning
+- Model Evaluation, Optimization & Preprocessing
+- Applying ML to real-world problems through projects & research
+
+</details>
 
 ---
 
 ## 🚀 Projects
 
-- Machine learning projects including **data analysis, model training, and evaluation**
-- Backend-integrated ML applications using **Flask & APIs**
-- 📌 Check **pinned repositories** for detailed implementations
+- 📊 Machine Learning projects including data analysis, model training & evaluation  
+- 🌐 Backend-integrated ML applications using **Flask & APIs**  
+- 🔎 Check pinned repositories for detailed implementations  
 
-> *“Good models come from good data — and better questions.”*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7EE787&width=800&lines=Good+models+come+from+good+data+—+and+better+questions." />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ratul-w&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratul-w&theme=github-dark" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/Ratul-w  
-- LinkedIn: 
-- Email: aniruddha.saha@g.bracu.ac.bd 
+- 🐙 GitHub: https://github.com/Ratul-w  
+- 🔗 LinkedIn: https://www.linkedin.com  
+- 📧 Email: aniruddha.saha@g.bracu.ac.bd  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
