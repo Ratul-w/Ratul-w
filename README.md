@@ -76,7 +76,7 @@
 ## 🌐 Connect with Me
 
 - 🐙 GitHub: https://github.com/Ratul-w  
-- 🔗 LinkedIn: https://www.linkedin.com  
+- 🔗 LinkedIn:
 - 📧 Email: aniruddha.saha@g.bracu.ac.bd  
 
 ---
